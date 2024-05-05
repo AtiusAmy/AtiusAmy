@@ -15,9 +15,9 @@ I wouldn't call myself a programmer by any means because I am terrible but I hav
 As you can see from this, I'm not a very bright person.....
 ### Contact me
 If you still think I am cool for any reasons, then by no means contact me! 
-All of my links should be in https://pronouns.cc/@Amy/Amy but if you don't want to click on it, here are a few ones
+All of my links should be in [my website](https://www.atiusamy.com/faq/) but if you don't want to click on it, here are a few ones
 
-- I am on Mastodon and the Fediverse: https://sauropods.win/@AmyIsCoolz
-- I am on Matrix https://matrix.to/#/@atius:beeper.com
+- I am on Mastodon and the Fediverse: https://social.atiusamy.com/@AmyIsCoolz
+- I am on Matrix https://matrix.to/#/@amyiscoolz:chat.atiusamy.com
 
 Other than this, I also have Discord, but I don't encourage you to contact me there :P
