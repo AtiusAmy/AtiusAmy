@@ -9,7 +9,7 @@ I wouldn't call myself a programmer by any means because I am terrible but I hav
 - I technically technically made some Minecraft mods with MCreator https://github.com/AtiusAmy/morecraft-with-extra-craft and also other ones on CurseForge :) https://legacy.curseforge.com/members/atiusamy/projects
 - I cannot be considered an 'artist' but along with those Minecraft mods, I make resource packs! https://modrinth.com/resourcepack/minecraft-bedrock-water https://www.planetminecraft.com/member/atiusamy/ and also extra icons in https://github.com/AtiusAmy/MoreWaitaPlus
 - I am creating an [icon theme](https://github.com/AtiusAmy/AdwaitaColors), it serves as Colored Folders for Adwaita.
-- I have a  [blog](https://atiusamy.github.io/) and a [YouTube Channe](https://www.youtube.com/@Atius)
+- I have a  [blog](https://atiusamy.github.io/) and a [YouTube Channel](https://www.youtube.com/@Atius)
 - I am a translator in the app "Warehouse" and GNOME (I am kinda involved in Warehouse, but I can't take any credits, all credits go to Heliguy and kramo)
 
 As you can see from this, I'm not a very bright person.....
