@@ -17,7 +17,8 @@ As you can see from this, I'm not a very bright person.....
 If you still think I am cool for any reasons, then by no means contact me! 
 All of my links should be in [my website](https://www.atiusamy.com/links/) but if you don't want to click on it, here are a few ones
 
-- I am on Mastodon and the Fediverse: https://social.atiusamy.com/@AmyIsCoolz
+- I am on Bluesky: https://bsky.app/profile/amyiscoolz.atiusamy.com
+- I am on the Fediverse: https://social.atiusamy.com/@AmyIsCoolz
 - I am on Matrix https://matrix.to/#/@amyiscoolz:chat.atiusamy.com
 
 Other than this, I also have Discord, but I don't encourage you to contact me there :P
